@@ -1,0 +1,23 @@
+{
+  "name": "employeeManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiekim87/employeeManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiekim87/employeeManager/issues"
+  },
+  "homepage": "https://github.com/jamiekim87/employeeManager#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
